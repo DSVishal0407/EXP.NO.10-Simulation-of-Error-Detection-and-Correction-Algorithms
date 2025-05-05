@@ -145,7 +145,9 @@ for i in range(n):
 print("**********")
 ```
 # OUTPUT
+
 ```
+Enter the number of parity bits: 3
 Enter the number of message bits: 3
 
 Enter the parity matrix rows:
@@ -206,7 +208,6 @@ Syndrome Matrix:
 **********
 ```
 
- 
 # RESULT / CONCLUSIONS
 
 1. The simulation of error detection using Parity Check and error detection and correction using Hamming Code was successfully performed.
