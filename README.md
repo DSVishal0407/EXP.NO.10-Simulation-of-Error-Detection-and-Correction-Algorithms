@@ -5,7 +5,7 @@
 To simulate error detection and correction techniques, such as Parity Check and Hamming Code, and to understand their working principles using Python programming.
 
 # SOFTWARE REQUIRED
-Python
+->Python
 
 # ALGORITHMS
 
