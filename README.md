@@ -1,14 +1,12 @@
 # EXP.NO.10-Simulation-of-Error-Detection-and-Correction-Algorithms
-10.Simulation of Error Detecion and Correction Algorithms
 
-# AIM
+# AIM:
 To simulate error detection and correction techniques, such as Parity Check and Hamming Code, and to understand their working principles using Python programming.
 
-# SOFTWARE REQUIRED
+# SOFTWARE REQUIRED:
 ->Python
 
-# ALGORITHMS
-
+# ALGORITHM:
 1. Parity Check (Error Detection)
 
    Count the number of 1’s in the data.
@@ -27,7 +25,7 @@ To simulate error detection and correction techniques, such as Parity Check and 
 
    If an error is found, flip the bit to correct it.
 
-# PROGRAM
+# PROGRAM:
 ```python
 import numpy as np
 
@@ -208,12 +206,8 @@ Syndrome Matrix:
 **********
 ```
 
-# RESULT / CONCLUSIONS
-
+# RESULT:
 1. The simulation of error detection using Parity Check and error detection and correction using Hamming Code was successfully performed.
-
 2. Parity bits were able to detect single-bit errors.
-
 3. Hamming code successfully detected and corrected single-bit errors.
-
-Thus, the experiment successfully demonstrated basic error control techniques in digital communications.
+Thus,the experiment successfully demonstrated basic error control techniques in digital communications.
