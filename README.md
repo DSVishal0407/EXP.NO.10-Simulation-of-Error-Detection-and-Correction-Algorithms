@@ -142,7 +142,7 @@ for i in range(n):
 
 print("**********")
 ```
-# OUTPUT
+# OUTPUT:
 
 ```
 Enter the number of parity bits: 3
